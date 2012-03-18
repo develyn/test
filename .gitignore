@@ -1,4 +1,4 @@
 # These files are ignored by git.
-prog.c~
+*~
 program
 program2
